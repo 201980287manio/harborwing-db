@@ -1,5 +1,8 @@
 # HarborWing Air Database (IT8 Midterm Drill / Part 1)
 
+> **Part 2 (CRUD application):** https://github.com/201980287manio/harborwing-crud.git
+> **Explainer video:** https://drive.google.com/file/d/1_BHv9pcm4pZprOgos-nJI-LummV-aPoL/view?usp=drive_link
+
 A relational MySQL database for **HarborWing Air**, a fictional regional airline. It replaces the airline's spreadsheets and fixes their problems: repeated passenger data, inconsistent airport names, hard-to-track connecting flights, duplicated payments, overwritten actual times, and lost cost history.
 
 ## Repository contents
